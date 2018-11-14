@@ -1,0 +1,91 @@
+﻿<Window x:Class="Trainings.Sportsman_Window"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trainings"
+        mc:Ignorable="d"
+        Title="Trainings" 
+        Height="460"
+        Width="600"
+        BorderBrush="#FF310C1E"
+        Background="#FF9AE1D4"
+        ResizeMode="NoResize" 
+        WindowStartupLocation="CenterScreen" 
+        Loaded="Window_Loaded">
+    
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="295*"/>
+            <RowDefinition Height="126*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="305*"/>
+            <ColumnDefinition Width="289*"/>
+        </Grid.ColumnDefinitions>
+
+        <Calendar x:Name="calendar" 
+                  Grid.Column="0"
+                  HorizontalAlignment="Left" 
+                  VerticalAlignment="Top"
+                  Margin="10,10,0,0" 
+                  Height="356" 
+                  Width="278" 
+                  Grid.RowSpan="2"/>
+
+        <Button Grid.Column="0" 
+                Grid.Row="1"
+                VerticalAlignment="Bottom" 
+                HorizontalAlignment="Left"
+                Margin="10,0,0,10" 
+                Width="80" 
+                Content="Выход"
+                Click="ExitButton_Click"/>
+
+        <Button Grid.Row="0"
+                Content="Дневник" 
+                Grid.Column="1" 
+                Height="30"
+                VerticalAlignment="Bottom"
+                HorizontalAlignment="Center"
+                Margin="10"
+                Click="Open_Sportsman_S_WindowButton_Click" Width="90"/>
+
+        <Label Content="Тренировки"
+               HorizontalAlignment="Center" 
+               FontSize="16" 
+               VerticalAlignment="Top" 
+               Grid.Column="1" 
+               Height="31" 
+               Width="98" Margin="91,0,100,0"/>
+
+        <DataGrid Name="TrainingsDataGrid"
+                  HorizontalAlignment="Center"
+                  Width="250"
+                  Height="200"
+                  Grid.Column="1"
+                  Grid.Row="0"
+                  VerticalAlignment="Center" 
+                  Background="#FFFAFAFA"
+                  ItemsSource="{Binding}"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn x:Name="DateColumn" 
+                                    Binding="{Binding Date, NotifyOnSourceUpdated=True, StringFormat={}{0:dd/MM}}" 
+                                    Header="Дата тренировки" 
+                                    IsReadOnly="True" 
+                                    Width="Auto"/>
+            </DataGrid.Columns>
+
+            <DataGrid.BorderBrush>
+                <SolidColorBrush Color="#FFE91E63" Opacity="0.2"/>
+            </DataGrid.BorderBrush>
+        </DataGrid>
+    </Grid>
+
+</Window>

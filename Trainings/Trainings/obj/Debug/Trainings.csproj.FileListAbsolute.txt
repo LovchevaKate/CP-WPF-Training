@@ -1,0 +1,100 @@
+D:\Универ\Курсовой ООП\Trainings\Trainings\bin\Debug\Trainings.exe.config
+D:\Универ\Курсовой ООП\Trainings\Trainings\bin\Debug\Trainings.exe
+D:\Универ\Курсовой ООП\Trainings\Trainings\bin\Debug\Trainings.pdb
+D:\Универ\Курсовой ООП\Trainings\Trainings\bin\Debug\EntityFramework.dll
+D:\Универ\Курсовой ООП\Trainings\Trainings\bin\Debug\EntityFramework.SqlServer.dll
+D:\Универ\Курсовой ООП\Trainings\Trainings\bin\Debug\EntityFramework.xml
+D:\Универ\Курсовой ООП\Trainings\Trainings\bin\Debug\EntityFramework.SqlServer.xml
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.csprojResolveAssemblyReference.cache
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\App.g.cs
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings_MarkupCompile.cache
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings_MarkupCompile.lref
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.g.resources
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.Properties.Resources.resources
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.csproj.GenerateResource.Cache
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.csproj.CoreCompileInputs.cache
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.exe
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.pdb
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Login_Window.g.cs
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\App.baml
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Login_Window.baml
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trener_Window.g.cs
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trener_Window.baml
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Registration_Window.g.cs
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Registration_Window.baml
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\bin\Debug\Trainings.exe.config
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\bin\Debug\Trainings.exe
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\bin\Debug\Trainings.pdb
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\bin\Debug\EntityFramework.dll
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\bin\Debug\EntityFramework.SqlServer.dll
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\bin\Debug\MaterialDesignColors.dll
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\bin\Debug\EntityFramework.xml
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\bin\Debug\EntityFramework.SqlServer.xml
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Trainings.csprojResolveAssemblyReference.cache
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Login_Window.g.cs
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Registration_Window.g.cs
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Trener_Window.g.cs
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\App.g.cs
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Trainings_Content.g.cs
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Trainings_MarkupCompile.cache
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Trainings_MarkupCompile.lref
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\App.baml
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Dictionary.baml
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Login_Window.baml
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Registration_Window.baml
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\resource\Login_Style.baml
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\resource\Regestration_Style.baml
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\resource\Trener_main_Style.baml
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Trener_Window.baml
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Trainings.g.resources
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Trainings.Properties.Resources.resources
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Trainings.csproj.GenerateResource.Cache
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Trainings.csproj.CoreCompileInputs.cache
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Trainings.exe
+D:\Универ\Курсовой ООП\Trainings — копия\Trainings\obj\Debug\Trainings.pdb
+D:\Универ\Курсовой ООП\Trainings\Trainings\bin\Debug\MaterialDesignColors.dll
+D:\Универ\Курсовой ООП\Trainings\Trainings\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Универ\Курсовой ООП\Trainings\Trainings\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Универ\Курсовой ООП\Trainings\Trainings\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Sportsman_S_Window.g.cs
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Sportsman_Window.g.cs
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trener_S_Window.g.cs
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Sportsman_S_Window.baml
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Sportsman_Window.baml
+D:\Универ\Курсовой ООП\Trainings\Trainings\obj\Debug\Trener_S_Window.baml
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\bin\Debug\Trainings.exe.config
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\bin\Debug\Trainings.exe
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\bin\Debug\Trainings.pdb
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\bin\Debug\EntityFramework.dll
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\bin\Debug\EntityFramework.SqlServer.dll
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\bin\Debug\EntityFramework.xml
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\bin\Debug\EntityFramework.SqlServer.xml
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.csprojAssemblyReference.cache
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Login_Window.g.cs
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Registration_Window.g.cs
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Sportsman_S_Window.g.cs
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Sportsman_Window.g.cs
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trener_S_Window.g.cs
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trener_Window.g.cs
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\App.g.cs
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings_MarkupCompile.cache
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings_MarkupCompile.lref
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\App.baml
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Login_Window.baml
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Registration_Window.baml
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Sportsman_S_Window.baml
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Sportsman_Window.baml
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trener_S_Window.baml
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trener_Window.baml
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.g.resources
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.Properties.Resources.resources
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.csproj.GenerateResource.cache
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.csproj.CoreCompileInputs.cache
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.csproj.CopyComplete
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.exe
+D:\Универ\Курсовой ООП\Курсовой ООП\Trainings\Trainings\obj\Debug\Trainings.pdb
